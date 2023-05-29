@@ -1,0 +1,787 @@
+[
+  {
+        "kind": "books#volume",
+        "id": "G8F2Zzi6CLcC",
+        "etag": "hFO+7f5SAaA",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/G8F2Zzi6CLcC",
+        "volumeInfo": {
+          "title": "The Ideology of Genre",
+          "subtitle": "A Comparative Study of Generic Instability",
+          "authors": [
+            "Thomas O. Beebee"
+          ],
+          "publisher": "Penn State Press",
+          "description": "In a series of comparative essays on a range of texts embracing both high and popular culture from the early modern era to the contemporary period, The Ideology of Genre counters both formalists and advocates of the &\"death of genre,&\" arguing instead for the inevitability of genre as discursive mediation. At the same time, Beebee demonstrates that genres are inherently unstable because they are produced intertextually, by a system of differences without positive terms. In short, genre is the way texts get used. To deny that genres exist is to deny, in a sense, the possibility of reading; if genres exist, on the other hand, then they exist not as essences but as differences, and thus those places within and between texts where genres &\"collide&\" reveal the connections between generic status, interpretive strategy, ideology, and the use-value of language.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9780271042091"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "0271042095"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": false
+          },
+          "pageCount": 313,
+          "printType": "BOOK",
+          "categories": [
+            "Literary Criticism"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "0.4.2.0.preview.2",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=G8F2Zzi6CLcC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=G8F2Zzi6CLcC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.co.in/books?id=G8F2Zzi6CLcC&dq=subject:%24%7Bgenre%7D&hl=&cd=1&source=gbs_api",
+          "infoLink": "http://books.google.co.in/books?id=G8F2Zzi6CLcC&dq=subject:%24%7Bgenre%7D&hl=&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/The_Ideology_of_Genre.html?hl=&id=G8F2Zzi6CLcC"
+        },
+        "saleInfo": {
+          "country": "IN",
+          "TotalSale":480,
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "IN",
+          "viewability": "NO_PAGES",
+          "embeddable": false,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true
+          },
+          "pdf": {
+            "isAvailable": true
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=G8F2Zzi6CLcC&hl=&source=gbs_api",
+          "accessViewStatus": "NONE",
+          "quoteSharingAllowed": false
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "0PsmDwAAQBAJ",
+        "etag": "irbXxZnx/Qs",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/0PsmDwAAQBAJ",
+        "volumeInfo": {
+          "title": "Genre Theory",
+          "subtitle": "Theoretical Essays of Ralph Cohen",
+          "authors": [
+            "Ralph Cohen"
+          ],
+          "publisher": "University of Virginia",
+          "publishedDate": "2017-11-10",
+          "description": "Ralph Cohen was highly regarded as the visionary founding editor of New Literary History, but his own theoretical essays appeared in such a scattering of publications that their conceptual originality, underlying coherence, and range of application have not been readily apparent. This new selection of twenty essays, many published here for the first time, offers a synthesis of Cohen’s vital work. In these pages Cohen introduces change and continuity as essential modes of discourse in the study of literary behavior, an approach that can produce reliable narratives of literary, artistic, and cultural change. Here Cohen conceptualizes and develops a compelling, innovative theory of genre that promotes a systematic study of historical change, offering rewarding insights for twenty-first-century scholars.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9780813940120"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "0813940125"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": true
+          },
+          "pageCount": 432,
+          "printType": "BOOK",
+          "categories": [
+            "Literary Criticism"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "1.2.3.0.preview.3",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=0PsmDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=0PsmDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.co.in/books?id=0PsmDwAAQBAJ&printsec=frontcover&dq=subject:%24%7Bgenre%7D&hl=&cd=2&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=0PsmDwAAQBAJ&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=0PsmDwAAQBAJ"
+        },
+        "saleInfo": {
+          "country": "IN",
+          "TotalSale":900,
+          "saleability": "FOR_SALE",
+          "isEbook": true,
+          "listPrice": {
+            "amount": 6355.36,
+            "currencyCode": "INR"
+          },
+          "retailPrice": {
+            "amount": 6355.36,
+            "currencyCode": "INR"
+          },
+          "buyLink": "https://play.google.com/store/books/details?id=0PsmDwAAQBAJ&rdid=book-0PsmDwAAQBAJ&rdot=1&source=gbs_api",
+          "offers": [
+            {
+              "finskyOfferType": 1,
+              "listPrice": {
+                "amountInMicros": 6355360000,
+                "currencyCode": "INR"
+              },
+              "retailPrice": {
+                "amountInMicros": 6355360000,
+                "currencyCode": "INR"
+              }
+            }
+          ]
+        },
+        "accessInfo": {
+          "country": "IN",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.in/books/download/Genre_Theory_and_Historical_Change-sample-epub.acsm?id=0PsmDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.in/books/download/Genre_Theory_and_Historical_Change-sample-pdf.acsm?id=0PsmDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=0PsmDwAAQBAJ&hl=&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "ww54Rini5SwC",
+        "etag": "KuTrWCaKAZo",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/ww54Rini5SwC",
+        "volumeInfo": {
+          "title": "Gender and Genre",
+          "authors": [
+            "Simon Gaunt"
+            
+          ],
+          "publisher": "Cambridge University Press",
+          "publishedDate": "1995-05-11",
+          "description": "Wide-ranging study of gender and the underlying ideologies of Old French and Occitan literature.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9780521464949"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "0521464943"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": true
+          },
+          "pageCount": 386,
+          "printType": "BOOK",
+          "categories": [
+            "Literary Criticism"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "0.0.2.0.preview.1",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=ww54Rini5SwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=ww54Rini5SwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.co.in/books?id=ww54Rini5SwC&printsec=frontcover&dq=subject:%24%7Bgenre%7D&hl=&cd=3&source=gbs_api",
+          "infoLink": "http://books.google.co.in/books?id=ww54Rini5SwC&dq=subject:%24%7Bgenre%7D&hl=&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/Gender_and_Genre_in_Medieval_French_Lite.html?hl=&id=ww54Rini5SwC"
+        },
+        "saleInfo": {
+          "country": "IN",
+          "TotalSale":700,
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "IN",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.in/books/download/Gender_and_Genre_in_Medieval_French_Lite-sample-pdf.acsm?id=ww54Rini5SwC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=ww54Rini5SwC&hl=&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "J15vQlZ0GGAC",
+        "etag": "gD3fY7PdSEo",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/J15vQlZ0GGAC",
+        "volumeInfo": {
+          "title": "Romanticism, History",
+          "subtitle": "Re-forming Literature 1789-1837",
+          "authors": [
+            "Tilottama Rajan"
+          ],
+          "publisher": "Cambridge University Press",
+          "publishedDate": "1998-02-13",
+          "description": "Leading scholars of Romanticism explore the relationship between ideology and literary genre.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9780521581929"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "0521581923"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": false
+          },
+          "pageCount": 0,
+          "printType": "BOOK",
+          "categories": [
+            "Literary Criticism"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "0.2.2.0.preview.2",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=J15vQlZ0GGAC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=J15vQlZ0GGAC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.co.in/books?id=J15vQlZ0GGAC&dq=subject:%24%7Bgenre%7D&hl=&cd=4&source=gbs_api",
+          "infoLink": "http://books.google.co.in/books?id=J15vQlZ0GGAC&dq=subject:%24%7Bgenre%7D&hl=&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/Romanticism_History_and_the_Possibilitie.html?hl=&id=J15vQlZ0GGAC"
+        },
+        "saleInfo": {
+          "country": "IN",
+          "TotalSale":600,
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "IN",
+          "viewability": "NO_PAGES",
+          "embeddable": false,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=J15vQlZ0GGAC&hl=&source=gbs_api",
+          "accessViewStatus": "NONE",
+          "quoteSharingAllowed": false
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "A7urDwAAQBAJ",
+        "etag": "HolvAI/Ow8o",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/A7urDwAAQBAJ",
+        "volumeInfo": {
+          "title": "Genre Matters",
+          "subtitle": "Essays in Theory and Criticism",
+          "authors": [
+            "Garin Dowd"
+           
+          ],
+          "publisher": "Intellect Books",
+          "publishedDate": "2006-01-01",
+          "description": "This collection of new essays addresses a topic of established and expanding critical interest throughout the humanities. It demonstrates that genre matters in a manner not constrained by disciplinary boundaries and includes new work on Genre Theory and applications of thinking about genre from Aristotle to Derrida and beyond. The essays focus on economies of expectation and competency, genre as media form, recent developments in television broadcast genres, translation and genericity, the role played by genre in film publicity, gender and genre, genre in fiction, and the problematics of classification. An introductory essay places the contributions in the context of a wide range of thinking about genre in the arts, media and humanities. The volume will be of interest to both undergraduates and postgraduates, especially those following courses on Genre Theory and Genre Criticism, and to academics working in a range of subject areas such as Cultural Studies, Film Studies, Media Studies and Literary Studies.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9781841509303"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "1841509302"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": true
+          },
+          "pageCount": 180,
+          "printType": "BOOK",
+          "categories": [
+            "Literary Criticism"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "preview-1.0.0",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=A7urDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=A7urDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.co.in/books?id=A7urDwAAQBAJ&printsec=frontcover&dq=subject:%24%7Bgenre%7D&hl=&cd=5&source=gbs_api",
+          "infoLink": "http://books.google.co.in/books?id=A7urDwAAQBAJ&dq=subject:%24%7Bgenre%7D&hl=&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/Genre_Matters.html?hl=&id=A7urDwAAQBAJ"
+        },
+        "saleInfo": {
+          "country": "IN",
+          "TotalSale":400,
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "IN",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.in/books/download/Genre_Matters-sample-epub.acsm?id=A7urDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.in/books/download/Genre_Matters-sample-pdf.acsm?id=A7urDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=A7urDwAAQBAJ&hl=&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "ssEgAQAAIAAJ",
+        "etag": "cnbhERd+JtM",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/ssEgAQAAIAAJ",
+        "volumeInfo": {
+          "title": "The Genre of Silence",
+          "authors": [
+            "Duncan Bush",
+            "Victor Bal"
+          ],
+          "publisher": "Seren Books/Poetry Wales PressLtd",
+          "publishedDate": "1988",
+          "description": "Duncan Bush's new work brings to life, at times painfully, the work of the Russian poet Victor Bal, who 'disappeared' under Stalinism.",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "STANFORD:36105040904398"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": false
+          },
+          "pageCount": 108,
+          "printType": "BOOK",
+          "categories": [
+            "Poets, Russian"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "1.3.2.0.preview.0",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=ssEgAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=ssEgAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.co.in/books?id=ssEgAQAAIAAJ&dq=subject:%24%7Bgenre%7D&hl=&cd=6&source=gbs_api",
+          "infoLink": "http://books.google.co.in/books?id=ssEgAQAAIAAJ&dq=subject:%24%7Bgenre%7D&hl=&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/The_Genre_of_Silence.html?hl=&id=ssEgAQAAIAAJ"
+        },
+        "saleInfo": {
+          "country": "IN",
+          "TotalSale":120,
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "IN",
+          "viewability": "NO_PAGES",
+          "embeddable": false,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=ssEgAQAAIAAJ&hl=&source=gbs_api",
+          "accessViewStatus": "NONE",
+          "quoteSharingAllowed": false
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "rZwxNrX-bk8C",
+        "etag": "RBhAow98rUg",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/rZwxNrX-bk8C",
+        "volumeInfo": {
+          "title": "Food, Film and Culture",
+          "subtitle": "A Genre Study",
+          "authors": [
+            "James R. Keller"
+          ],
+          "publisher": "McFarland",
+          "publishedDate": "2014-11-04",
+          "description": "Culinary imagery, much like sexual and violent imagery, is a key cinematic device used to elicit a sensory response from an audience. In many films, culinary imagery is central enough to constitute a new subgenre, defined by films in which food production, preparation, service, and consumption play a major part in the development of character, structure, or theme. This book defines the food film genre and analyzes the relationship between cinematic food imagery and various cultural constructs, including politics, family, identity, race, ethnicity, nationality, gender, and religion. Chapters examine these themes in several well-known food films, such as The Cook, the Thief, His Wife and Her Lover, Chocolat, Babette’s Feast, and Eat Drink Man Woman, and lesser-known productions, including Felicia’s Journey, Kitchen Stories, Magic Kitchen, and Chinese Feast. The work includes a filmography of movies within the food genre. Instructors considering this book for use in a course may request an examination copy here.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9781476609089"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "147660908X"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": true
+          },
+          "pageCount": 215,
+          "printType": "BOOK",
+          "categories": [
+            "Social Science"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": true,
+          "contentVersion": "1.3.4.0.preview.3",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=rZwxNrX-bk8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=rZwxNrX-bk8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.co.in/books?id=rZwxNrX-bk8C&printsec=frontcover&dq=subject:%24%7Bgenre%7D&hl=&cd=7&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=rZwxNrX-bk8C&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=rZwxNrX-bk8C"
+        },
+        "saleInfo": {
+          "country": "IN",
+          "TotalSale":500,
+          "saleability": "FOR_SALE",
+          "isEbook": true,
+          "listPrice": {
+            "amount": 1759.12,
+            "currencyCode": "INR"
+          },
+          "retailPrice": {
+            "amount": 1759.12,
+            "currencyCode": "INR"
+          },
+          "buyLink": "https://play.google.com/store/books/details?id=rZwxNrX-bk8C&rdid=book-rZwxNrX-bk8C&rdot=1&source=gbs_api",
+          "offers": [
+            {
+              "finskyOfferType": 1,
+              "listPrice": {
+                "amountInMicros": 1759120000,
+                "currencyCode": "INR"
+              },
+              "retailPrice": {
+                "amountInMicros": 1759120000,
+                "currencyCode": "INR"
+              }
+            }
+          ]
+        },
+        "accessInfo": {
+          "country": "IN",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.in/books/download/Food_Film_and_Culture-sample-epub.acsm?id=rZwxNrX-bk8C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.in/books/download/Food_Film_and_Culture-sample-pdf.acsm?id=rZwxNrX-bk8C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=rZwxNrX-bk8C&hl=&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "vcs3DwAAQBAJ",
+        "etag": "g+zytibyYwQ",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/vcs3DwAAQBAJ",
+        "volumeInfo": {
+          "title": "Narrative and Genre",
+          "subtitle": "Contexts and Types of Communication",
+          "authors": [
+            "Paul Thompson"
+          ],
+          "publisher": "Routledge",
+          "publishedDate": "2017-09-29",
+          "description": "Any life story, whether a written autobiography or an oral testimony, is shaped not only by the reworkings of experience through memory and re-evaluation, but also by art. Any communication has to use shared conventions not only of language itself, but also the more complex expectations of \"\"genre,\"\" the forms expected within a given context and type of communication. This collection of essays by international academics draws on a wide range of disciplines in the social sciences and the humanities to examine how far the expectations and forms of genre shape different kinds of autobiography and influence what messages they can convey. After investigating the problem of genre definition, and tracing the evolution of genre as a concept, contributors explore such issues as: How far can we argue that what people narrate in their autobiographical stories is selected and shaped by the repertoire of genre available to them? To what extent is oral autobiography shaped by its social and cultural context? What is the relationship between autobiographical sources and the ethnographer? Narrative and Genre presents exciting new debates in an emerging field and will encourage international and interdisciplinary discussion. Its authors and contributors are scholars from the fields of anthropology, cultural studies, literary analysis, psychology, psychoanalysis, social history, and sociology.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9781351503884"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "135150388X"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": true
+          },
+          "pageCount": 262,
+          "printType": "BOOK",
+          "categories": [
+            "Literary Criticism"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "1.1.2.0.preview.3",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=vcs3DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=vcs3DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.co.in/books?id=vcs3DwAAQBAJ&printsec=frontcover&dq=subject:%24%7Bgenre%7D&hl=&cd=8&source=gbs_api",
+          "infoLink": "http://books.google.co.in/books?id=vcs3DwAAQBAJ&dq=subject:%24%7Bgenre%7D&hl=&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/Narrative_and_Genre.html?hl=&id=vcs3DwAAQBAJ"
+        },
+        "saleInfo": {
+          "country": "IN",
+          "TotalSale":760,
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "IN",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.in/books/download/Narrative_and_Genre-sample-epub.acsm?id=vcs3DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.in/books/download/Narrative_and_Genre-sample-pdf.acsm?id=vcs3DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=vcs3DwAAQBAJ&hl=&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "hU0vmQEACAAJ",
+        "etag": "ftLr6jvUfNo",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/hU0vmQEACAAJ",
+        "volumeInfo": {
+          "title": "Typology of Genre of Literary Portraits",
+          "subtitle": "Genre is a Phenomenon, Located in the Intersection of the Synchronous and Diachronic Processes in the Literature",
+          "authors": [
+            "Baglan Bazylova"
+          ],
+          "publisher": "LAP Lambert Academic Publishing",
+          "publishedDate": "2012",
+          "description": "The literary portrait became one of such genres which have been activly included in genre system of an epic type. Nowadays the problem of literary portrait genre represents an art phenomenon synthesizing in its contents and structure the elements of documentary and art genres, and it turns out to be a field of discussions about its belonging to system of publicistic or art genres. Research of forms and functions of a literary portrait in main types of epic type - novels, tales, stories, sketches and in writings of memoir literature - is conducted in several directions in works of scientists. It is caused by expansion of portrait function as art ensemble element where such sign of genre, as way of its subject organization is distinctly shown. Approaches to studying interrelation of a portrait as part of art ensemble with stages of literary process and literary genre in particular are planned in literary science.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_10",
+              "identifier": "3659288217"
+            },
+            {
+              "type": "ISBN_13",
+              "identifier": "9783659288210"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": false
+          },
+          "pageCount": 84,
+          "printType": "BOOK",
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "preview-1.0.0",
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=hU0vmQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=hU0vmQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.co.in/books?id=hU0vmQEACAAJ&dq=subject:%24%7Bgenre%7D&hl=&cd=9&source=gbs_api",
+          "infoLink": "http://books.google.co.in/books?id=hU0vmQEACAAJ&dq=subject:%24%7Bgenre%7D&hl=&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/Typology_of_Genre_of_Literary_Portraits.html?hl=&id=hU0vmQEACAAJ"
+        },
+        "saleInfo": {
+          "country": "IN",
+          "TotalSale":550,
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "IN",
+          "viewability": "NO_PAGES",
+          "embeddable": false,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=hU0vmQEACAAJ&hl=&source=gbs_api",
+          "accessViewStatus": "NONE",
+          "quoteSharingAllowed": false
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "gyBdDwAAQBAJ",
+        "etag": "a7hkgb8HpfE",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/gyBdDwAAQBAJ",
+        "volumeInfo": {
+          "title": "The Television Genre Book",
+          "authors": [
+            "Glen Creeber"
+          ],
+          "publisher": "Bloomsbury Publishing",
+          "publishedDate": "2015-08-16",
+          "description": "Genre is central to understanding the industrial context and visual form of television. This new edition of the key textbook on television genre brings together leading international scholars to provide an accessible and comprehensive introduction to the debates, issues and concerns of the field. Structured in eleven sections, The Television Genre Book introduces the concept of 'genre' itself and how it has been understood in television studies, and then addresses the main televisual genres in turn: drama, soap opera, comedy, news, documentary, reality television, children's television, animation and popular entertainment. This third edition is illustrated throughout with case studies of classic and contemporary programming from each genre, ranging from The Simpsons to Buffy the Vampire Slayer and from Monty Python's Flying Circus to Who Wants to be a Millionaire?. It also features new case studies on contemporary shows, including The Only Way Is Essex, Homeland, Game of Thrones, Downton Abbey, Planet Earth, Grey's Anatomy and QVC, and new chapters covering topics such as constructed reality, travelogues, telefantasy, stand-up comedy, the panel show, 24-hour news, Netflix and video on demand.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9781844578986"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "1844578984"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": true
+          },
+          "pageCount": 256,
+          "printType": "BOOK",
+          "categories": [
+            "Performing Arts"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": true,
+          "contentVersion": "0.4.0.0.preview.1",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=gyBdDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=gyBdDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.co.in/books?id=gyBdDwAAQBAJ&printsec=frontcover&dq=subject:%24%7Bgenre%7D&hl=&cd=10&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=gyBdDwAAQBAJ&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=gyBdDwAAQBAJ"
+        },
+        "saleInfo": {
+          "country": "IN",
+          "TotalSale":620,
+          "saleability": "FOR_SALE",
+          "isEbook": true,
+          "listPrice": {
+            "amount": 2793,
+            "currencyCode": "INR"
+          },
+          "retailPrice": {
+            "amount": 2793,
+            "currencyCode": "INR"
+          },
+          "buyLink": "https://play.google.com/store/books/details?id=gyBdDwAAQBAJ&rdid=book-gyBdDwAAQBAJ&rdot=1&source=gbs_api",
+          "offers": [
+            {
+              "finskyOfferType": 1,
+              "listPrice": {
+                "amountInMicros": 2793000000,
+                "currencyCode": "INR"
+              },
+              "retailPrice": {
+                "amountInMicros": 2793000000,
+                "currencyCode": "INR"
+              }
+            }
+          ]
+        },
+        "accessInfo": {
+          "country": "IN",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.in/books/download/The_Television_Genre_Book-sample-pdf.acsm?id=gyBdDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=gyBdDwAAQBAJ&hl=&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        }
+      }
+    ]
+  
