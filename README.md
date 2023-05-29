@@ -1,3 +1,5 @@
+Copy rights reserved for this website by the owner 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
