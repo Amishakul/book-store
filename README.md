@@ -1,4 +1,6 @@
-Copy rights reserved for this website by the owner 
+# Copy rights reserved for this website by the owner.
+# Create your own account on  google firebase and then click on create project to create one, and go in project settings, go to bottom right side, click on brackets open-close symbol to generate firebase config code snippet, don't use the one given in my code. 
+
 
 # Getting Started with Create React App
 
